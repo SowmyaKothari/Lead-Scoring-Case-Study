@@ -1,5 +1,4 @@
-# Lead-Scoring-Case-Study
-A lead scoring model for the company Education X to improve lead conversion rate
+
 # Lead Scoring Model for X Education
 
 ## Project Overview
